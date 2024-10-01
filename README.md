@@ -4,9 +4,9 @@
   <img src="https://i.pinimg.com/originals/8e/2b/8c/8e2b8c72a993b3e84b7b2b373eef623e.gif" alt="Animação de pétalas de Sakura caindo" />
 </p>
 
-<h3 align="center" style="color:#FF69B4;">🌸 Sobre Mim 🌸</h3>
+<h3 align="center" style="color:#FF69B4;">
 <p align="center" style="color:#FFB6C1;">
-  🌸 Olá! Eu sou <strong>Nebulosa</strong>, apenas uma curiosa no mundo dos desenvolvedores. 🌸<br>
+  🌸 Apenas uma curiosa no mundo dos desenvolvedores. 🌸<br>
 </p>
 
 <h3 align="center" style="color:#FF69B4;">🌸 Habilidades 🌸</h3>
