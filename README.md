@@ -1,5 +1,3 @@
-<h1 align="center" style="color:#FFB6C1;">🌸 Bem-vindo(a) ao Meu Perfil 🌸</h1>
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/8e/2b/8c/8e2b8c72a993b3e84b7b2b373eef623e.gif" alt="Animação de pétalas de Sakura caindo" />
 </p>
